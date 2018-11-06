@@ -2,7 +2,9 @@ OBS Studio <https://obsproject.com>
 ===================================
 
 Why I fork?
-discord,github,Twitter,twitch. all of them can be together.
+-------------------
+
+  discord,github,Twitter,twitch. all of them can be together.
 
 What is OBS Studio?
 -------------------
